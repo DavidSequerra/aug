@@ -6,7 +6,7 @@ import MainNavbar from './components/navbar/navbar';
 function App() {
   return (
     <>
-    <MainNavbar/>
+      <MainNavbar />
     </>
   );
 }
