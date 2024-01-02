@@ -1,10 +1,13 @@
-import Devorah from "./components/Devorah";
+import logo from './logo.svg';
+import './App.css';
+import MainNavbar from './components/navbar/navbar';
+
 
 function App() {
   return (
-    <div className="App">
-      <Devorah />
-    </div>
+    <>
+      <MainNavbar />
+    </>
   );
 }
 
